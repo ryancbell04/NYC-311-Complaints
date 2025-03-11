@@ -19,4 +19,4 @@ What are the most common types of complaints in NYC in 2024?
 # Maximus Walton:
 Which agency receives the most 311 requests, and what complaints do they handle most frequently?
 
-Our separate visuals are broken up into our names with code following. Our entire interactive dashboard can be found under the app.R file.
+# Our separate visuals are broken up into our names with code following. Our entire interactive dashboard can be found under the app.R file.
